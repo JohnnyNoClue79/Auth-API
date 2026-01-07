@@ -17,14 +17,15 @@ A minimal ASP.NET Core Web API that implements user registration, login, and rol
 - `System.IdentityModel.Tokens.Jwt` for token creation and validation
 - `BCrypt.Net-Next` for password hashing [file:160][file:162]
 
-## Quick start
 
-1. **Clone the repo**
+Quick Start
 
-```bash
-git clone 
-cd AuthApi
-dotnet restore
+1. Clone the repo
+
+'''bash
+   git clone 
+   cd AuthApi
+   dotnet restore
 
 2. Run the API
 
