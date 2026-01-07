@@ -22,7 +22,7 @@ A minimal ASP.NET Core Web API that implements user registration, login, and rol
 1. **Clone the repo**
 
 ```bash
-git clone <your-repo-url>
+git clone 
 cd AuthApi
 dotnet restore
 
